@@ -1,0 +1,7 @@
+A Running Log of Work Performed in this Directory
+
+2019-12-02
+Deep Learning with Python by François Chollet
+30 min
+Finished on P. 30. 
+Notes: Appendix A and section 3.3 may be useful for setup. 
