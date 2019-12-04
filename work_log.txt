@@ -1,5 +1,11 @@
 A Running Log of Work Performed in this Directory
 
+2019-12-03
+Deep Learning with Python by Fançois Chollet
+30 min
+Finished on book P. 14, preview P.37.
+Notes: SentDex tutorial on Deep Learning may be a good resource after completion of this 
+
 2019-12-02
 Deep Learning with Python by François Chollet
 30 min
