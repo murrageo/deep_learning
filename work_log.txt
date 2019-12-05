@@ -1,5 +1,11 @@
 A Running Log of Work Performed in this Directory
 
+2019-12-04
+Deep Learning with Python by Fançois Chollet
+30 mins
+Finished on book P.21 , preview P.21
+Note: Deep Convolutional Neural Networks are currently the best ml approach to image classification. This is best done with Keras in Python.
+
 2019-12-03
 Deep Learning with Python by Fançois Chollet
 30 min
