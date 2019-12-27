@@ -1,5 +1,11 @@
 A Running Log of Work Performed in this Directory
 
+2019-12-27
+Deep Learning with Python by Fançois Chollet
+20 min
+Finished on book P. 20, Preview P. 53
+Notes: TensorFLow, Pytorch, and Keras are Python packages that will be useful for machine learning applications. 
+
 2019-12-04
 Deep Learning with Python by Fançois Chollet
 30 mins
