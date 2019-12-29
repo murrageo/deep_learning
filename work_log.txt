@@ -1,9 +1,15 @@
 A Running Log of Work Performed in this Directory
 
+2019-12-29
+Deep Learning with Python by Fançois Chollet
+20 min
+Book P. 35, Preview P. 58.
+Notes: Numpy package will probably be used for handling tensors. 
+
 2019-12-27
 Deep Learning with Python by Fançois Chollet
 20 min
-Finished on book P. 20, Preview P. 53
+Finished on book P. 30, Preview P. 53
 Notes: TensorFLow, Pytorch, and Keras are Python packages that will be useful for machine learning applications. 
 
 2019-12-04
