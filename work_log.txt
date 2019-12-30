@@ -1,5 +1,10 @@
 A Running Log of Work Performed in this Directory
 
+2019-12-30
+Deep Learning with Python by Fançois Chollet
+20 min
+Book P. 41, Preview P. 64.
+
 2019-12-29
 Deep Learning with Python by Fançois Chollet
 20 min
