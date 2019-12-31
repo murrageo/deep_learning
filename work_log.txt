@@ -1,5 +1,11 @@
 A Running Log of Work Performed in this Directory
 
+2019-12-31
+Deep Learning with Python by Fançois Chollet
+20 min
+Book P. 47, Preview P. 70.
+Note: A good analogy to describe deep learning. Imagine a blue and a red piece of paper crumpled up together. Machine learning is a way of using a program to identify the set of transformations or steps that will uncrumple the pieces of paper. 
+
 2019-12-30
 Deep Learning with Python by Fançois Chollet
 20 min
