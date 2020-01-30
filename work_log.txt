@@ -1,5 +1,17 @@
 A Running Log of Work Performed in this Directory
 
+2020-01-30
+Deep Learning with Python by Fançois Chollet
+20 min
+
+Notes: https://keras.io
+       http://deeplearning.net/software/theano
+       www.tensorflow.org (Recommened by the book as the backend to use). 
+       https://github.com/Microsoft/CNTK
+       http://eigen.tuxfamily.org
+       
+       Probably will need to download and install Tensor Flow. Appendix A for instructions on setting up work station. 
+
 2020-01-29
 Deep Learning with Python by Fançois Chollet
 20 min
