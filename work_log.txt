@@ -3,6 +3,7 @@ A Running Log of Work Performed in this Directory
 2020-01-30
 Deep Learning with Python by Fançois Chollet
 20 min
+Book P. 65, Preview P. 88.
 
 Notes: https://keras.io
        http://deeplearning.net/software/theano
